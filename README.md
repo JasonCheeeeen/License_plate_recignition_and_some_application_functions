@@ -1,5 +1,5 @@
-# License plate recignition and some application functions
-In this project, it cotained some application functions and implement of the license plate recobnition.
+# License plate recognition and some application functions
+In this project, it cotained some application functions and implement of the license plate recognition.
 
 ## Application functions
 You can try to use the function made by myself and input your image which you want, you will see the transformation of your image.</br>
