@@ -10,7 +10,7 @@ Also, this functions will help you to implement the next theme - license plate r
 License plate recognition is ubiquitous in parking lots, so i want to implement it by myself with methods of image processing.</br> 
 In order to increase its recogntion's speed, i use deep learning(CNN) to train the model of number and alphabet.</br>
 Finally, using thread to recognize, and all of these are implemented by python.</br>
-In code file, i have uploaded a pdf file which contain the algorithm of how to implement license plate recognition and each procedure's output image.
+Also, i have uploaded a pdf file which contain the algorithm of how to implement license plate recognition and each procedure's output image.
 So i think it can help you to realize how to implement it simply.
 
 ## Data source
